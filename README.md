@@ -1,6 +1,6 @@
 <h1 align="center">Hey Everyone! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">I'm sM0ky4!</h1>
 
-<h3 id="motd" align="center"> Amateurs hack systems, professionals hack people - Bruce Schneier </h3>
+<h3 id="motd" align="center"> The humans are the weakness, not computers. </h3>
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&duration=3000&pause=2000&center=true&width=800&lines=Hello!+I+am+an+Amateur+Hacker%2C+And+I+hope+you+have+a+good+day.;How's+Your+Day+Been%3F+You're+A+Wonderful+Person!;I+feel+like+i've+seen+you+somewhere!;Life's+Too+Short+To+Stay+On+Your+Phone+Man+!+Go+Hack;One+Day+or+Day+One+?;Keep+Focus;Why+You+Randomly+Viewing+this%3F+Go+Hack+Now+!" alt="Typing SVG" /></a></div>
 
 <h2> 🙈 About Me: </h2>
