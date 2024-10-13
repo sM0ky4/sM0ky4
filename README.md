@@ -26,7 +26,6 @@
 ## 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=sM0ky4&theme=radical&hide_border=false&include_all_commits=true&count_private=true" style = "width: 49%; height: 50%; "/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sM0ky4&theme=radical&hide_border=false" style = "width: 49%; height: 50%; float: right;"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sM0ky4&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="50%" height="50%" align="center"/>
 
 
 ## 🏆 GitHub Trophies
